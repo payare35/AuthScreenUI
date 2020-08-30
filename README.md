@@ -6,3 +6,5 @@ The plugin 'flutter_svg' is used to convert the SVG images into Icons.
 
 ## Following is the Display Poster of the Application
 <img src="./github_logo/Auth Screen.png">
+
+This project is inspired by: https://github.com/abuanwar072/Welcome-Login-Signup-Page-Flutter
